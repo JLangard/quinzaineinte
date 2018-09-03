@@ -1,0 +1,6 @@
+framework module Pods_quinzaineinteTests {
+  umbrella header "Pods-quinzaineinteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
